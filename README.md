@@ -6,7 +6,7 @@
 
 ###
 
-<h4 align="left">👤 Nombre: Karina Escalante<br>😄 Pronombres: She/Her<br>📍 Ubicacion: Hidalgo 🇲🇽</h4>
+<h4 align="left">👤 Nombre: Kari <br>😄 Pronombres: She/Her<br>📍 Ubicacion: Hidalgo 🇲🇽</h4>
 
 ###
 
