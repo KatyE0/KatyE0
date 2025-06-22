@@ -1,4 +1,4 @@
-# ¡Holi! 👋 Soy Kari Escalante
+# ¡Holi! 👋 Soy Kari
 
 **Desarrolladora Full Stack Junior | Estudiante de Ingeniería en Sistemas Computacionales | Mujer en STEM**
 
