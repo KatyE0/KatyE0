@@ -1,11 +1,11 @@
 # ¡Holi! 👋 Soy Kari
 
-**Desarrolladora Full Stack Junior | Estudiante de Ingeniería en Sistemas Computacionales | Mujer en STEM**
+**Desarrolladora Full Stack Junior | Mujer en STEM**
 
 ---
 
 ✨ **Sobre mí**  
-Soy estudiante apasionada de Ingeniería en Sistemas Computacionales con experiencia en desarrollo web, diseño UI/UX, y creación de aplicaciones tanto para la web como para Windows. Me motiva la innovación, la tecnología y el aprendizaje continuo. Me encanta convertir ideas en soluciones creativas y funcionales.
+Soy estudiante apasionada de Ingeniería Mecatronica con experiencia en desarrollo web, diseño UI/UX, y creación de aplicaciones tanto para la web como para Windows. Me motiva la innovación, la tecnología y el aprendizaje continuo. Me encanta convertir ideas en soluciones creativas y funcionales.
 
 ---
 
